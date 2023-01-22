@@ -1,6 +1,5 @@
 #include "monty.h"
 
-extern_var_t ex;
 
 /**
  * main - honestly, idk.
